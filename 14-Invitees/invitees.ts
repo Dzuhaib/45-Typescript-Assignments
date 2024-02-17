@@ -1,5 +1,5 @@
 // Define an array of people to invite to dinner
-let guestList: string[] = ["Zuhaib", "Ahmed", "Talha"];
+let guestList: string[] = ["Imran Khan", "Nawaz Sharif", "Asif Ali Zardari"];
 
 // Print personalized invitations to each person
 for (let i = 0; i < guestList.length; i++) {
