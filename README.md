@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;TypeScript+Exercices+Projects!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=This+repository+contains+TypeScript+exercise+projects+developed+for+the+Governor+House+Sindh+Kamran+Khan+Tessory+Institute.+These+exercises+are+designed+to+enhance+learning+and+practical+application+of+TypeScript+programming+concepts.;TypeScript+Exercices+Projects!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 
