@@ -1,0 +1,12 @@
+{
+  "name": "20.think-of-something-you-could-store-in-a-array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "think.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

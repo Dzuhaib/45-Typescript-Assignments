@@ -1,0 +1,12 @@
+{
+  "name": "21.they-think-of-something-you-could-store-in-a-typescript-object",
+  "version": "1.0.0",
+  "description": "",
+  "main": "object.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
