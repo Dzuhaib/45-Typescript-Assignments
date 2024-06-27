@@ -1,0 +1,12 @@
+{
+  "name": "32.checking-usernames",
+  "version": "1.0.0",
+  "description": "",
+  "main": "user_name.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

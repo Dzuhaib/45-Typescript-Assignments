@@ -1,0 +1,12 @@
+{
+  "name": "41.magicians",
+  "version": "1.0.0",
+  "description": "",
+  "main": "magician.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

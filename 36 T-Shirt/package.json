@@ -1,0 +1,12 @@
+{
+  "name": "36.t-shirt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shirt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
